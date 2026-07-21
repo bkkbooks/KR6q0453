@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0453_000-J.yaml, hash: 'sha256:b90464ac437a23c21a47530b47e6722871c3c05aa5491fae16030634dd78b3ba'}
+  - {seq: 0, filename: KR6q0453_000-J.yaml, hash: 'sha256:59fd501bf477c48834c594345c70a0c5bb95e935925526fac8157925ccbadb4a'}
   - {seq: 1, filename: KR6q0453_001-J.yaml, hash: 'sha256:2c217e70ba0956d9b0512abce2a978096425504c40b84394f11a0acf5388d9ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0453_000-J.markers.yaml, hash: 'sha256:5ff01f126e484b2d4c93251e75c2c782319256377be70809bf67fe5b366cfc5b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0453_000-J.markers.yaml, hash: 'sha256:532ff9bfba484d627948fce3762ad0f87264ff0e71ae589390cedba4c3ad237a'}
   - {seq: 1, role: markers, filename: assets/KR6q0453_001-J.markers.yaml, hash: 'sha256:dccafcce847b783bd8cd7a279990ac85fcefbb6414bd46fe1b92ad24e4f6e8c3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0453_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -415,4 +415,4 @@ table_of_contents:
   label: 附記
   type: mulu
   level: 1
-hash: sha256:6cf5affd4912b30f0e4ce3beb36120c08d62381e5db6f7e0a282c098c22047a8
+hash: sha256:a09e097256cd871a24bb740abbdbcdb7737c95ccd401640257d9d5dda4976e3b
